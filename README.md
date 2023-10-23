@@ -1,7 +1,7 @@
 # friendtech_analytics
  Friend Tech Analytics 
 
-Repositery has 3 .py files 
+Repositery has 2 .py files 
 friend_tech.py contains following
 * TVL and daily change in it
 * Bar chart for daily transcations
